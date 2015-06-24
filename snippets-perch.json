@@ -1,0 +1,7 @@
+{
+  "html": {
+    "abbreviations": {
+        "perchafter":"<perch:after>",
+        "perchbefore":"<perch:before>"    }
+  }
+}
