@@ -8,6 +8,21 @@ A file with a collection of Emmet snippets for use with the excellent [Perch CMS
 2. In Brackets, go to Emmet > Preferences, and enter the file path for the folder with the json file in. In my case on my mac it is _/Users/mikeharrison/Documents/Snippets/_
 3. Restart Brackets
 
+####Usage
+
+Use the snippets as with standard Emmet snippets. For instance to create a set of 3 Blocks, an input of:
+
+`perchblock>perchblocks*3`
+
+Would output
+
+```
+<perch:blocks>
+  <perch:block></perch:block>
+  <perch:block></perch:block>
+  <perch:block></perch:block>
+</perch:blocks>
+```
 ####Commands
 
 |Command   | Result  |
