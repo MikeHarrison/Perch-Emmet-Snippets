@@ -12,7 +12,7 @@ A file with a collection of Emmet snippets for use with the excellent [Perch CMS
 
 Use the snippets as with standard Emmet snippets. For instance to create a set of 3 Blocks, an input of:
 
-`perchblock>perchblocks*3`
+`perchblocks>perchblock*3`
 
 Would output
 
